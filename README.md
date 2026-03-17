@@ -84,11 +84,11 @@ Textures belong to their respective owners (Poliigon, etc.).
 
 ## 👤 Author
 
-**[Your Name]**  
+**[SOUBI Charaf]**  
 3D Artist & Designer  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/charaf12-u)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://soubicharaf.netlify.app/)
 
 ---
 
